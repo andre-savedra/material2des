@@ -1,7 +1,5 @@
--- LICENÇAS DE SOTWARE
--- Criação de Tabelas
-
-
+create database if not exists exercicio_licensas;
+use exercicio_licensas;
 -- -----------------------------------------------------
 -- Table lSETOR
 -- -----------------------------------------------------
